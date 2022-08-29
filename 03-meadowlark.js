@@ -21,7 +21,8 @@ const fortunes = [
   "Do not fear what you don't know.",
   "You will have a pleasant surprise.",
   "Whenever possible, keep it simple.",
-  "Less clever expressions, please!"
+  "Less clever expressions, please!",
+  "Come On!"
 ]
 
 app.get('/about', (req, res) => {
